@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-I'm Cameron, a Business and COmputer Science student at the University of British Columbia.
+I'm Cameron, a Business and Computer Science student at the University of British Columbia.
 
 Interests include:
-- Cloud Computing
+- Cloud Computing 
 - Front-end Development
 - Fintech
 
