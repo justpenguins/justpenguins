@@ -7,6 +7,7 @@ Interests include:
 - Cloud Computing 
 - Front-end Development
 - Fintech
+- Artificial Intelligence
 
 I'm currently working on a BFS version of my maze solver!
 
