@@ -4,15 +4,14 @@
 I'm Cameron, a Business and Computer Science student at the University of British Columbia.
 
 Interests include:
-- Cloud Computing 
-- Front-end Development
+- Cloud Computing/Distributed systems 
+- Technical consulting
+- Project/product management
 - Fintech
-- Artificial Intelligence
 
-I'm currently working on a BFS version of my maze solver!
+💬 lee.cameron0878@gmail.com
 
-Fun fact: I really love playing ultimate frisbee, having played at Canadian Nationals!
-
+🔭 Current project: [AUDL Stats predictor](https://github.com/justpenguins/audl_awards)
 
 
 <!--
