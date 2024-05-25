@@ -5,11 +5,9 @@ I'm Cameron, a Business and Computer Science student at the University of Britis
 
 Interests include:
 - Cloud Computing/Distributed systems 
-- Technical consulting
-- Project/product management
 - Fintech
 
-💬 lee.cameron0878@gmail.com
+💬 cameronlee87@gmail.com
 
 🔭 Current project: [AUDL Stats predictor](https://github.com/justpenguins/audl_awards)
 
