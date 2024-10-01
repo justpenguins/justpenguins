@@ -1,15 +1,16 @@
 ### Hi there 👋
 
 
-I'm Cameron, a Business and Computer Science student at the University of British Columbia.
+I'm Cameron, a Business and Computer Science student at the University of British Columbia. I'm solving problems, throwing plastic or asleep.
 
-Interests include:
-- Cloud Computing/Distributed systems 
-- Fintech
+Currently learning:
+- How to find a job
+- Cloud Computing
+- DevOps fundamentals
 
 💬 cameronlee87@gmail.com
 
-🔭 Current project: [AUDL Stats predictor](https://github.com/justpenguins/audl_awards)
+🔭 Current project: [ATS Clone](https://github.com/justpenguins/ats_clone)
 
 
 <!--
