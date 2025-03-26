@@ -5,7 +5,7 @@ I'm Cameron, a Business and Computer Science student at the University of Britis
 
 Currently learning:
 - How to find a job
-- Cloud Computing
+- Cybersecurity
 - DevOps fundamentals
 
 💬 cameronlee87@gmail.com
