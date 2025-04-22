@@ -4,13 +4,13 @@
 I'm Cameron, a Business and Computer Science student at the University of British Columbia. I'm solving problems, throwing plastic or asleep.
 
 Currently learning:
-- How to find a job
-- Cybersecurity
+- Cloud computing/Securing the cloud
+- Cybersecurity fundamentals
 - DevOps fundamentals
 
 💬 cameronlee87@gmail.com
 
-🔭 Current project: [ATS Clone](https://github.com/justpenguins/ats_clone)
+🔭 Current project: [Honeypot Simulator](https://github.com/justpenguins/honeypot)
 
 
 <!--
