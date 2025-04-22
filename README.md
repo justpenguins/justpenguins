@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Cameron, a Business and Computer Science student at the University of British Columbia. I'm solving problems, throwing plastic or asleep.
+I'm Cameron, currently a Dev Support Engineer at Brex, formerly at Telus, Koho and UBC.
 
 Currently learning:
 - Cloud computing/Securing the cloud
@@ -10,7 +10,7 @@ Currently learning:
 
 💬 cameronlee87@gmail.com
 
-🔭 Current project: [Honeypot Simulator](https://github.com/justpenguins/honeypot)
+🔭 Current project: [Honeypot Simulator](https://github.com/justpenguins/honeypot) and [Leeting the Code](https://github.com/justpenguins/leeting_the_code)
 
 
 <!--
